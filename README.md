@@ -1,5 +1,7 @@
 # Real Time Character Counter
 
+[Live-Link](https://aravindont.github.io/Real-Time-Character-Counter/) of the Project
+
 ## Wireframe
 
 ![RTCC-Wireframe](./RTCC.jpg)
