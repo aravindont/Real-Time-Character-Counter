@@ -17,3 +17,21 @@
 ```html
 <link rel="stylesheet" href="styles.css" />
 ```
+
+## JavaScript
+
+- Created the `index.js` file to the `JavaScript` code to the application and to make to functional
+
+- To link the `js` file and the `html` file we need add the below `script` tag before the end of `html` page i.e, before the `body` tag so that our `script` file will have the access to all the `dom` elements
+
+```html
+<script src="./index.js"></script>
+```
+
+- Used `DOM`(Document Object Model) manupulation techniques and javascript concepts
+
+- Used `addEventListener` method to listen to the changes in the text-area input and latter caluclated the length of the words entered inside the textarea to update the value of `Total Characters` and `Remaining Characters` values
+
+Final Look:
+
+![RTCC-Final](./RTCC-final.png)
